@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outras formataçoes</title>
+</head>
+<body>
+    <h1>Outras formataçoes</h1>
+    <h2>Codigo fonte</h2>
+    <p>
+        o comando <code>document.getElementeById('Teste')</code> é escrito em linguagem java script
+    </p>
+    <pre>
+        <code>
+            num = int(input('Digite um numero:'))
+            if num % 2 == 0 
+                print(f'O numero é PAR')
+            else:
+                print(f'O numero {num} é IMPAR')
+            print('Fim do programa.')
+        </code>
+    </pre>
+    <h2>Citaçoes simples</h2>
+    <p>Como diria o pai de um amigo:<q>O computador é um burro muito rapido</q></p>
+    <h2>Citaçoes completas</h2>
+    <blockquote cite="google.com">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus accusantium consequuntur tempora natus assumenda doloremque, cumque sint, facilis vel atque cupiditate. Facere aliquid nam excepturi omnis doloremque aliquam, eius nihil!Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis nesciunt quia ullam consequatur veniam id quis facere placeat? Ab nulla inventore unde eveniet eaque asperiores maiores blanditiis autem soluta Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam error, accusamus architecto quos exercitationem illo aliquam possimus non vel, beatae tempore ullam adipisci, dolorum rerum repellat ipsa omnis unde nesciunt!
+        </p>
+    </blockquote>
+    <h2>Abreviaçoes</h2>
+    <p>Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheet">CSS</abbr></p>
+
+</body>
+</html>
