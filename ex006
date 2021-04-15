@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hierarquia de Titulos</title>
+</head>
+<body>
+
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Justificaçao da tematica</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto enim delectus a tempore nobis voluptatem eum rerum nemo voluptate accusamus alias, repudiandae esse tenetur fugit excepturi iusto doloremque est quae!Lorem</p>
+    <h3>Carater excecional de caso de estudo</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure delectus explicabo blanditiis magni asperiores quaerat nemo? Temporibus beatae, esse veniam accusantium corporis ex eaque tempora animi ratione modi eveniet nihil?</p>
+    <h3>Perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde laudantium architecto asperiores iure commodi iste harum ea, ex blanditiis tempora dolorum qui praesentium quis voluptates deserunt aliquam suscipit? Ut, incidunt!Loreml Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea sed repellat iste distinctio nulla saepe natus cupiditate mollitia praesentium in, culpa suscipit, reprehenderit odio soluta voluptatem. Impedit placeat illo accusantium.
+    </p>
+    <h3>Metodologia de investigaçao</h3>
+    <h4>Etapas de investigaçao</h4>
+    <h4>Instrumento de analise e informaçao</h4>
+    
+    <h3>Ordenamento do territorio em portugal</h3>
+    <h4>Instrumentos de gestao do territorio</h4>
+    <h4>Os regimes territorias especiais</h4>
+</body>
+</html>
