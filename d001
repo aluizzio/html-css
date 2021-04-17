@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <h1>Minhas redes sociais</h1>
+  <h2>Quem sou eu?</h2>
+    <img src="perfil-150.jpeg" alt="Foto-Perfil-Aluizio">
+    <p>Meu nome é <strong>Aluizio Neto</strong> e Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni totam alias at eaque, praesentium quia voluptatum velit! Asperiores perspiciatis ipsa, quidem omnis qui accusantium beatae dolores saepe blanditiis natus dolor!Lorem Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque, accusantium. Ab accusantium et dolor, quis amet tempora hic eaque eos, voluptatum excepturi pariatur aspernatur iste dolore assumenda cum nam est?Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt quam molestias officiis quibusdam error esse aliquam voluptate beatae ex, accusantium deserunt nam earum asperiores maxime, blanditiis placeat a, cum </p>
+    <h2>Como falar comigo?</h2>
+
+    <ul>
+        <li><img src="icone-instagram.png" alt="">/<a href="https://Instagram.com/aluizzio_" target="_blank"
+            rel="external">aluizzio_</a> - Me segue la no Insta!</li>
+        <li><img src="icone-twitter.png" alt="">/<a href="https://Twitter.com/aluizzio_"
+            target="_blank" rel="external">aluizzio_</a> - Me segue la no Twitter!</li>
+        <li><img src="icone-github.png" alt="">/<a href="https://GitHub.com/aluizzio" target="_blank" rel="external">aluizzio</a> - Me segue la no GitHub!</li>
+    </ul>
+
+</body>
+</html>
